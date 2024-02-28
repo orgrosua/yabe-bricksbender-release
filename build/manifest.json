@@ -1,0 +1,23 @@
+{
+  "assets/admin/main.js": {
+    "file": "assets/admin-CZRbV4OB.js",
+    "src": "assets/admin/main.js",
+    "isEntry": true
+  },
+  "assets/bricks/main.js": {
+    "file": "assets/bricks-zOeErrna.js",
+    "src": "assets/bricks/main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "assets/bricks/modules/plain-classses/plain-classes.js"
+    ]
+  },
+  "assets/bricks/modules/plain-classses/plain-classes.js": {
+    "file": "assets/plain-classes-DWPvdlmq.js",
+    "src": "assets/bricks/modules/plain-classses/plain-classes.js",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/plain-classes-D-11qpo-.css"
+    ]
+  }
+}
