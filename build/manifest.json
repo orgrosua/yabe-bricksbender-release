@@ -1,23 +1,62 @@
 {
+  "_constant-DMD3CJmW.js": {
+    "file": "assets/constant-DMD3CJmW.js"
+  },
+  "_runtime-core.esm-bundler-B2TdrL23.js": {
+    "file": "assets/runtime-core.esm-bundler-B2TdrL23.js"
+  },
   "assets/admin/main.js": {
-    "file": "assets/admin-CZRbV4OB.js",
+    "file": "assets/admin-0X5Jzfow.js",
     "src": "assets/admin/main.js",
-    "isEntry": true
+    "isEntry": true,
+    "imports": [
+      "_runtime-core.esm-bundler-B2TdrL23.js"
+    ],
+    "css": [
+      "assets/admin-BSL9HJ8h.css"
+    ]
   },
   "assets/bricks/main.js": {
-    "file": "assets/bricks-zOeErrna.js",
+    "file": "assets/bricks-C5LTkFVH.js",
     "src": "assets/bricks/main.js",
     "isEntry": true,
     "dynamicImports": [
-      "assets/bricks/modules/plain-classses/plain-classes.js"
+      "assets/bricks/modules/plain-classses/main.js",
+      "assets/bricks/modules/html2bricks/main.js",
+      "assets/bricks/modules/ko-fi/main.js"
     ]
   },
-  "assets/bricks/modules/plain-classses/plain-classes.js": {
-    "file": "assets/plain-classes-DWPvdlmq.js",
-    "src": "assets/bricks/modules/plain-classses/plain-classes.js",
+  "assets/bricks/modules/html2bricks/main.js": {
+    "file": "assets/main-Bze19QYW.js",
+    "src": "assets/bricks/modules/html2bricks/main.js",
     "isDynamicEntry": true,
+    "imports": [
+      "_constant-DMD3CJmW.js",
+      "assets/bricks/main.js"
+    ]
+  },
+  "assets/bricks/modules/ko-fi/main.js": {
+    "file": "assets/main-CZsbfSla.js",
+    "src": "assets/bricks/modules/ko-fi/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/bricks/main.js"
+    ],
     "css": [
-      "assets/plain-classes-D-11qpo-.css"
+      "assets/main-CVoQuXGr.css"
+    ]
+  },
+  "assets/bricks/modules/plain-classses/main.js": {
+    "file": "assets/main-B7rqBkcU.js",
+    "src": "assets/bricks/modules/plain-classses/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/bricks/main.js",
+      "_constant-DMD3CJmW.js",
+      "_runtime-core.esm-bundler-B2TdrL23.js"
+    ],
+    "css": [
+      "assets/main-B6f-e0c1.css"
     ]
   }
 }
