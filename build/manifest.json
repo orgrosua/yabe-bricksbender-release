@@ -6,7 +6,7 @@
     "file": "assets/runtime-core.esm-bundler-B2TdrL23.js"
   },
   "assets/admin/main.js": {
-    "file": "assets/admin-0X5Jzfow.js",
+    "file": "assets/admin-g44-RyaI.js",
     "src": "assets/admin/main.js",
     "isEntry": true,
     "imports": [
@@ -17,7 +17,7 @@
     ]
   },
   "assets/bricks/main.js": {
-    "file": "assets/bricks-C5LTkFVH.js",
+    "file": "assets/bricks-BKwHO4c0.js",
     "src": "assets/bricks/main.js",
     "isEntry": true,
     "dynamicImports": [
@@ -27,7 +27,7 @@
     ]
   },
   "assets/bricks/modules/html2bricks/main.js": {
-    "file": "assets/main-Bze19QYW.js",
+    "file": "assets/main-0NrLb6V_.js",
     "src": "assets/bricks/modules/html2bricks/main.js",
     "isDynamicEntry": true,
     "imports": [
@@ -36,7 +36,7 @@
     ]
   },
   "assets/bricks/modules/ko-fi/main.js": {
-    "file": "assets/main-CZsbfSla.js",
+    "file": "assets/main-BVg8E-U2.js",
     "src": "assets/bricks/modules/ko-fi/main.js",
     "isDynamicEntry": true,
     "imports": [
@@ -47,7 +47,7 @@
     ]
   },
   "assets/bricks/modules/plain-classses/main.js": {
-    "file": "assets/main-B7rqBkcU.js",
+    "file": "assets/main-CaqZuBx0.js",
     "src": "assets/bricks/modules/plain-classses/main.js",
     "isDynamicEntry": true,
     "imports": [

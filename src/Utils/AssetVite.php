@@ -102,11 +102,13 @@ class AssetVite
         return $this->_register_asset(\dirname(BRICKSBENDER::FILE) . '/build', $entry, $options);
     }
     /**
-     * @inheritDoc AssetWebpack::asset_base_url()
+     * Get the asset base absolute path.
+     *
+     * @return string The asset base absolute path.
      */
     public static function asset_base_url() : string
     {
-        return \Yabe\Bricksbender\Utils\AssetWebpack::asset_base_url();
+        return \plugins_url('build/', BRICKSBENDER::FILE);
     }
     /**
      * Get manifest data
