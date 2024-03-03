@@ -17,7 +17,7 @@
     ]
   },
   "assets/bricks/main.js": {
-    "file": "assets/bricks-BKwHO4c0.js",
+    "file": "assets/bricks-DTnvOKtw.js",
     "src": "assets/bricks/main.js",
     "isEntry": true,
     "dynamicImports": [
@@ -27,7 +27,7 @@
     ]
   },
   "assets/bricks/modules/html2bricks/main.js": {
-    "file": "assets/main-0NrLb6V_.js",
+    "file": "assets/main-CtaayHSA.js",
     "src": "assets/bricks/modules/html2bricks/main.js",
     "isDynamicEntry": true,
     "imports": [
@@ -36,7 +36,7 @@
     ]
   },
   "assets/bricks/modules/ko-fi/main.js": {
-    "file": "assets/main-BVg8E-U2.js",
+    "file": "assets/main-D4nz35n3.js",
     "src": "assets/bricks/modules/ko-fi/main.js",
     "isDynamicEntry": true,
     "imports": [
@@ -47,7 +47,7 @@
     ]
   },
   "assets/bricks/modules/plain-classses/main.js": {
-    "file": "assets/main-CaqZuBx0.js",
+    "file": "assets/main-CL-Parbe.js",
     "src": "assets/bricks/modules/plain-classses/main.js",
     "isDynamicEntry": true,
     "imports": [
